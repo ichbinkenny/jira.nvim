@@ -1,0 +1,11 @@
+{
+    "workspace.library": [
+        "C:\\Users\\kenny\\AppData\\Local\\nvim-data\\lazy\\neodev.nvim\\types\\stable",
+        "C:\\Program Files\\Neovim\\share\\nvim\\runtime\\lua",
+        "C:\\Users\\kenny\\AppData\\Local\\nvim-data\\lazy\\neodev.nvim\\types\\stable",
+        "C:\\Program Files\\Neovim\\share\\nvim\\runtime\\lua",
+        "C:/Users/kenny/Documents/projects/nvim_plugins/neojira/lua/lua",
+        "C:/Users/kenny/Documents/projects/nvim_plugins/neojira/lua/lua",
+        "${3rd}/luv/library"
+    ]
+}
